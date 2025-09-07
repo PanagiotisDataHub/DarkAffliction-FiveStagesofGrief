@@ -21,9 +21,9 @@ My solo music project – Debut concept album
 ---
 
 ## 🎧 Listen
-[![Spotify](https://img.shields.io/badge/Listen-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](spotify-link)  
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube-link)  
-[![Bandcamp](https://img.shields.io/badge/Support-Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white)](bandcamp-link)  
+[![Spotify](https://img.shields.io/badge/Listen-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/29YlnPmEz3iF8fITpo90Me?si=fbxM4Wj7QNuFVK7oYE7x3g)  
+[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lzUbdu-NkpE)  
+[![Bandcamp](https://img.shields.io/badge/Support-Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white)](https://darkaffliction.bandcamp.com/album/five-stages-of-grief)  
 
 ---
 
